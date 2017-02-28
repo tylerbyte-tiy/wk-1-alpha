@@ -1,3 +1,14 @@
 h1{
   color: brown;
 }
+img {border: 10px solid gray;
+}
+h2#Wildlife {
+  background-color: yellow;
+}
+p.font-style{
+  font-style: italic;
+}
+p.font-size{
+  font-size: xx-large;
+}
