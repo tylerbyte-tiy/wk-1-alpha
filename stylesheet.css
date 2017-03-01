@@ -4,6 +4,7 @@ h1{
   height:auto;
   display:block;
   text-align: center;
+  font-size: 1em;
 img {
   border: 10px solid gray;
   border-radius: 15px;
@@ -15,6 +16,7 @@ img {
 h2#Wildlife {
   background-color: yellow;
   font-weight: bold;
+  font-size: 1rem;
 }
 p.font-style{
   font-style: italic;
@@ -26,11 +28,15 @@ p.font-size{
 p {
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-right: 150px;
+    margin-right: 150;
     margin-left: 80px;
-    padding: 10px;
+    padding: 10%;
 
 }
 body {
    background-image:url("./img/map.png";
+}
+a:link, a:visited, a:hover, a:focus, a:active{
+    color: red;
+    text-decoration: underline;
 }
