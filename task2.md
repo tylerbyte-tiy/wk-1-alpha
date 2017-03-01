@@ -17,7 +17,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] border
   - [x] border-radius
   - [x] background-color
-  - [ ] background-image
+  - [x] background-image
   - [x] color
   - [x] font-size
   - [x] font-style

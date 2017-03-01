@@ -40,3 +40,5 @@ a:link, a:visited, a:hover, a:focus, a:active{
     color: red;
     text-decoration: underline;
 }
+grad{
+  background:linear-gradient(blue, green);
