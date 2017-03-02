@@ -6,6 +6,14 @@ footer {
 }
 nav {
     display: block;
+
+.clear{
+  clear:both;
+}
+
+.cf:after {
+  clear:both;
+}
 }
 h1{
   color: brown;
@@ -56,10 +64,10 @@ a:link, a:visited, a:hover, a:focus, a:active{
 grad{
   background:linear-gradient(blue, green);
 }
-  /*.float-left {
+  .float-left {
     float: left;
     margin: 0 10px 10px 0;
-  }*/
+  }
 .float-right {
   border: dotted 1px black;
   float: right;

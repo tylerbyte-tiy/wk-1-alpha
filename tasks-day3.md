@@ -11,10 +11,10 @@ Ensure that you:
 - [x] Use a **header** element to contain:
   - [x] A **page title** in the appropriate element
   - [x] A **navigation bar** broken into two sub-groupings
-    - [ ] The left grouping in the navigation bar needs:
-      - [ ] to be an unordered list of two or more items
-      - [ ] in each list item should have a styled link  (e.g. a link to an internal id, a link to a second page, and a link to an additional resources page)
-      - [ ] the list items should be aligned horizontally _and_ without bullets
+    - [x] The left grouping in the navigation bar needs:
+      - [x] to be an unordered list of two or more items
+      - [x] in each list item should have a styled link  (e.g. a link to an internal id, a link to a second page, and a link to an additional resources page)
+      - [x] the list items should be aligned horizontally _and_ without bullets
     - [ ] The right grouping has one or two buttons (e.g. a link to a non-existent log-in, and a link to a non-existent profile page)
 - [ ] Use the **main** element to contain your main content.
 - [x] Use div elements to divide your content up into 5 logical groups which will be referred to as **cards**.
