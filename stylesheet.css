@@ -1,5 +1,5 @@
 body{
-  background-color: blue;
+  background-color: lightblue;
 }
 footer {
   text-align: center;
@@ -21,7 +21,7 @@ h1{
   height:auto;
   display:block;
   text-align: center;
-  font-size: 1em;
+  font-size: 4em;
 }
 img>.float-right {
   float: right;
@@ -38,13 +38,13 @@ h2#Wildlife {
   font-weight: bold;
   font-size: 1rem;
 }
-p.font-style{
-  font-style: italic;
+/*p.font-style{*/
+  /*font-style: italic;*/
 }
-p.font-size{
-  font-size: xx-large;
-  text-decoration: underline;
-  float:right;
+/*p.font-size{*/
+  /*font-size: xx-large;*/
+  /*text-decoration: underline;*/
+  /*float:right;*/
 }
 p {
     margin-top: 10px;
